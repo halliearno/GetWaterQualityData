@@ -1,0 +1,96 @@
+MonitoringLocationIdentifier,MonitoringLocationName,MonitoringLocationTypeName,GLKNProtocol,Park,StationID,StationName,LatitudeMeasure,LongitudeMeasure,HorizontalCollectionMethodName,HorizontalCoordinateReferenceSystemDatumName
+11NPSWRD_WQX-APIS_01,Michigan Island Lagoon,Lake,Lakes,APIS,APIS_01,Michigan Island Lagoon,46.8772,-90.5121393,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-APIS_02,Outer Island Lagoon,Lake,Lakes,APIS,APIS_02,Outer Island Lagoon,47.00798,-90.45908875,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-APIS_03,"Stockton Island, Julian Bay Lagoon",Lake,Lakes,APIS,APIS_03,"Stockton Island, Julian Bay Lagoon",46.92522,-90.54802339,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-APIS_04,Little Sand Bay Lagoon,Lake,Lakes,APIS,APIS_04,Little Sand Bay Lagoon,46.94781895,-90.88479083,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-INDU_01,Long Lake,Lake,Lakes,INDU,INDU_01,Long Lake,41.61528,-87.21214,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-INDU_02,Lake George,Lake,Lakes,INDU,INDU_02,Lake George,41.52592,-87.27861,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-INDU_04,Little Calumet River (East Arm),River/Stream,Lakes,INDU,INDU_04,Little Calumet River (East Arm),41.62246049,-87.09460448,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-INDU_05,Middle Lagoon,Lake,Lakes,INDU,INDU_05,Middle Lagoon,41.61525602,-87.2727514,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-ISRO_01,Lake Ahmik,Lake,Lakes,ISRO,ISRO_01,Lake Ahmik,48.1478797,-88.5415881,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-ISRO_02,Sargent Lake,Lake,Lakes,ISRO,ISRO_02,Sargent Lake,48.0912831,-88.6617404,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-ISRO_03,Lake Richie,Lake,Lakes,ISRO,ISRO_03,Lake Richie,48.0410454,-88.7005398,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-ISRO_04,Beaver Lake,Lake,Lakes,ISRO,ISRO_04,Beaver Lake,48.0799674,-88.7573479,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-ISRO_05,Lake Harvey,Lake,Lakes,ISRO,ISRO_05,Lake Harvey,48.0504249,-88.7961173,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-ISRO_06,Lake George,Lake,Lakes,ISRO,ISRO_06,Lake George,48.0077949,-88.6852021,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-ISRO_07,Siskiwit Lake,Lake,Lakes,ISRO,ISRO_07,Siskiwit Lake,48.0037629,-88.7951845,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-ISRO_08,Lake Desor,Lake,Lakes,ISRO,ISRO_08,Lake Desor,47.9731536,-88.9805807,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-ISRO_09,Feldtmann Lake,Lake,Lakes,ISRO,ISRO_09,Feldtmann Lake,47.8551237,-89.1773746,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-ISRO_13,Wallace Lake,Lake,Lakes,ISRO,ISRO_13,Wallace Lake,48.0572785,-88.6282782,GPS-Unspecified,NAD83
+11NPSWRD_WQX-ISRO_14,Epidote Lake,Lake,Lakes,ISRO,ISRO_14,Epidote Lake,48.04091013,-88.61413764,GPS Code (Pseudo Range) Standard Position (SA On),NAD83
+11NPSWRD_WQX-ISRO_19,Lake Whittlesey,Lake,Lakes,ISRO,ISRO_19,Lake Whittlesey,48.01090652,-88.69094789,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-ISRO_20,Wood Lake,Lake,Lakes,ISRO,ISRO_20,Wood Lake,48.0052505,-88.74137275,GPS Code (Pseudo Range) Standard Position (SA On),NAD83
+11NPSWRD_WQX-ISRO_21,Intermediate Lake,Lake,Lakes,ISRO,ISRO_21,Intermediate Lake,48.0310142,-88.72842355,GPS Code (Pseudo Range) Standard Position (SA On),NAD83
+11NPSWRD_WQX-ISRO_22,Lake LeSage,Lake,Lakes,ISRO,ISRO_22,Lake LeSage,48.05798625,-88.70903964,GPS Code (Pseudo Range) Standard Position (SA On),NAD83
+11NPSWRD_WQX-ISRO_24,Chickenbone Lake,Lake,Lakes,ISRO,ISRO_24,Chickenbone Lake,48.06755637,-88.71100419,GPS Code (Pseudo Range) Standard Position (SA On),NAD83
+11NPSWRD_WQX-ISRO_30,Amygdaloid Lake,Lake,Lakes,ISRO,ISRO_30,Amygdaloid Lake,48.14712904,-88.63298586,GPS Code (Pseudo Range) Standard Position (SA On),NAD83
+11NPSWRD_WQX-ISRO_32,Hidden Lake,Lake,Lakes,ISRO,ISRO_32,Hidden Lake,48.15838829,-88.47423865,GPS Code (Pseudo Range) Standard Position (SA On),NAD83
+11NPSWRD_WQX-MISS_UM814,"King's Cove Marina, Conley Lake",River/Stream,Rivers,MISS,MISS_UM814,Mississippi R. @ Conley Lk.,44.75386441,-92.8408792,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-MISS_UM822,Mississippi River next to Spring Lake,River/Stream,Rivers,MISS,MISS_UM822,Mississippi R. @ Spring Lk.,44.766503,-92.9586,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-MISS_UM852,Mississippi River near East River Flats Park in Minneapolis,River/Stream,Rivers,MISS,MISS_UM852,Mississippi R. @ East River Flats,44.97022212,-93.2379115,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-MISS_UM862,Mississippi River near St. Paul Water Works Pumping Station,River/Stream,Rivers,MISS,MISS_UM862,Mississippi R. @ St. Paul Water Works,45.103228,-93.278046,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-MISS_UM868,Mississippi River upstream of the Coon Rapids Dam,River/Stream,Rivers,MISS,MISS_UM868,Mississippi R. @ Coon Rapids Dam,45.151309,-93.327838,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-MISS_UM880,Mississippi River just above the Crow River Confluence,River/Stream,Rivers,MISS,MISS_UM880,Mississippi R. @ Crow River Confluence,45.247595,-93.524096,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-PIRO_01,Grand Sable Lake,Lake,Lakes,PIRO,PIRO_01,Grand Sable Lake,46.6492,-86.0326,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-PIRO_02,Trapper's Lake,Lake,Lakes,PIRO,PIRO_02,Trapper's Lake,46.587293,-86.31504,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-PIRO_03,Legion Lake,Lake,Lakes,PIRO,PIRO_03,Legion Lake,46.5263,-86.361,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-PIRO_04,Beaver Lake,Lake,Lakes,PIRO,PIRO_04,Beaver Lake,46.5722,-86.3348,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-PIRO_05,Little Beaver Lake,Lake,Lakes,PIRO,PIRO_05,Little Beaver Lake,46.55788012,-86.36124225,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-PIRO_06,Chapel Lake,Lake,Lakes,PIRO,PIRO_06,Chapel Lake,46.5283,-86.4514,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-PIRO_07,Little Chapel Lake,Lake,Lakes,PIRO,PIRO_07,Little Chapel Lake,46.54318,-86.4474,GPS-Unspecified,NAD83
+11NPSWRD_WQX-PIRO_08,Miners Lake,Lake,Lakes,PIRO,PIRO_08,Miners Lake,46.4808,-86.5383,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-SACN_APLE_0.5,Apple River Approx. 1/2 Mile Upstream of the St. Croix River,River/Stream,Rivers,SACN,SACN_APLE_0.5,Apple R.,45.14681338,-92.73285457,GPS Code (Pseudo Range) Standard Position (SA Off),WGS84
+11NPSWRD_WQX-SACN_CLAM_0.7,Clam River at Clam River Flowage,Riverine Impoundment,Rivers,SACN,SACN_CLAM_0.7,Clam R. (Clam Flowage),45.949205,-92.08774,GPS Code (Pseudo Range) Standard Position (SA On),NAD83
+11NPSWRD_WQX-SACN_KINI_2.2,Kinnickinnic River at County Highway F Bridge,River/Stream,Rivers,SACN,SACN_KINI_2.2,Kinnickinnic R.,44.83102,-92.73316571,GPS Code (Pseudo Range) Standard Position (SA Off),WGS84
+11NPSWRD_WQX-SACN_NAKA_41.3,"Namekagon River at North Road Just West of Earl, WI",River/Stream,Rivers,SACN,SACN_NAKA_41.3,Namekagon R. @ Earl,45.91588113,-91.76418,GPS Code (Pseudo Range) Standard Position (SA Off),WGS84
+11NPSWRD_WQX-SACN_NAKA_4.8,Namekagon River at Namekagon Trail,River/Stream,Rivers,SACN,SACN_NAKA_4.8,Namekagon R. @ Namekagon Trail,46.08369,-92.11379,GPS Code (Pseudo Range) Standard Position (SA Off),WGS84
+11NPSWRD_WQX-SACN_NAKA_74.5,Namekagon River at Phipps Landing,River/Stream,Rivers,SACN,SACN_NAKA_74.5,Namekagon R. @ Phipps Landing,46.07199833,-91.41685554,GPS Code (Pseudo Range) Standard Position (SA Off),WGS84
+11NPSWRD_WQX-SACN_NAKA_84.6,Namkageon River at Leonards,River/Stream,Rivers,SACN,SACN_NAKA_84.6,Namkageon River @ Leonards,46.17112929,-91.33019707,GPS Code (Pseudo Range) Standard Position (SA Off),WGS84
+11NPSWRD_WQX-SACN_PACQ_SP_01,Pacwawong Spring Pond,Lake,Rivers,SACN,SACN_PACQ_SP_01,Pacwawong Spring Pond,46.13805067,-91.34150716,GPS Code (Pseudo Range) Standard Position (SA Off),WGS84
+11NPSWRD_WQX-SACN_PHIP_SP_01,Phipps Spring Pond,Lake,Rivers,SACN,SACN_PHIP_SP_01,Phipps Spring Pond,46.06870304,-91.40084953,GPS Code (Pseudo Range) Standard Position (SA Off),WGS84
+11NPSWRD_WQX-SACN_SNKE_0.5,Snake River Approx. 1/2 Mile Upstream of the St. Croix River,River/Stream,Rivers,SACN,SACN_SNKE_0.5,Snake R.,45.82339525,-92.77832874,GPS Code (Pseudo Range) Standard Position (SA Off),WGS84
+11NPSWRD_WQX-SACN_STCR_104.0,St. Croix River Just Upstream from Norway Point Boat Landing,River/Stream,Rivers,SACN,SACN_STCR_104.0,St. Croix R. @Norway Point,45.92586098,-92.63865,GPS Code (Pseudo Range) Standard Position (SA Off),WGS84
+11NPSWRD_WQX-SACN_STCR_138.9,Upper St. Croix River at CCC Bridge,River/Stream,Rivers,SACN,SACN_STCR_138.9,St. Croix R. @ CCC Bridge,46.11655,-92.13181,GPS Code (Pseudo Range) Standard Position (SA Off),WGS84
+11NPSWRD_WQX-SACN_STCR_15.8,Pool #2 on Lake St. Croix Downstream of I94 Bridge in Hudson,Lake,Rivers,SACN,SACN_STCR_15.8,St. Croix R. @ Hudson,44.95902658,-92.76014336,GPS Code (Pseudo Range) Standard Position (SA Off),WGS84
+11NPSWRD_WQX-SACN_STCR_2.0,"Pool #4 on Lake St. Croix near Prescott, WI",Lake,Rivers,SACN,SACN_STCR_2.0,St. Croix R. @ Prescott,44.76971626,-92.80502745,GPS Code (Pseudo Range) Standard Position (SA Off),WGS84
+11NPSWRD_WQX-SACN_STCR_20.0,"Pool #1 of Lake St. Croix near Bayport, MN",Lake,Rivers,SACN,SACN_STCR_20.0,St. Croix R. @ Bayport,45.01838386,-92.76500353,GPS Code (Pseudo Range) Standard Position (SA Off),WGS84
+11NPSWRD_WQX-SACN_STCR_43.7,St. Croix River near Osceola Landing,River/Stream,Rivers,SACN,SACN_STCR_43.7,St. Croix R. @ Osceola,45.30257256,-92.73470132,GPS Code (Pseudo Range) Standard Position (SA Off),WGS84
+11NPSWRD_WQX-SACN_STCR_53.9,St. Croix River Just Upstream from the St. Croix Falls Dam,Riverine Impoundment,Rivers,SACN,SACN_STCR_53.9,St. Croix R. @ Indianhead Flowage,45.41753,-92.64916,GPS Code (Pseudo Range) Standard Position (SA Off),WGS84
+11NPSWRD_WQX-SACN_STCR_63.8,St. Croix River About 1 Mile Above Nevers Dam Boat Landing,River/Stream,Rivers,SACN,SACN_STCR_63.8,St. Croix R. @ Nevers Dam,45.55576,-92.75213,GPS Code (Pseudo Range) Standard Position (SA Off),WGS84
+11NPSWRD_WQX-SACN_STCR_89.7,St. Croix River at US Hwy 70 Bridge,River/Stream,Rivers,SACN,SACN_STCR_89.7,St. Croix R. @ Hwy 70,45.77404,-92.78062,GPS Code (Pseudo Range) Standard Position (SA Off),WGS84
+11NPSWRD_WQX-SACN_WILO_0.5,Lake Mallalieu (Willow River) Just East of Public Boat Launch,Riverine Impoundment,Rivers,SACN,SACN_WILO_0.5,Willow R. (Lk. Mallalieu),44.98737752,-92.7550418,GPS Code (Pseudo Range) Standard Position (SA Off),WGS84
+11NPSWRD_WQX-SLBE_01,Manitou Lake,Lake,Lakes,SLBE,SLBE_01,Manitou Lake,45.12937172,-86.02233939,GPS Code (Pseudo Range) Standard Position (SA Off),WGS84
+11NPSWRD_WQX-SLBE_02,Florence Lake,Lake,Lakes,SLBE,SLBE_02,Florence Lake,45.01069,-86.1202991,GPS Code (Pseudo Range) Standard Position (SA Off),WGS84
+11NPSWRD_WQX-SLBE_03,Narada Lake,Lake,Lakes,SLBE,SLBE_03,Narada Lake,44.9360581,-85.90557924,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-SLBE_04,Shell Lake,Lake,Lakes,SLBE,SLBE_04,Shell Lake,44.94769385,-85.89942562,GPS Code (Pseudo Range) Standard Position (SA Off),WGS84
+11NPSWRD_WQX-SLBE_05,Bass Lake,Lake,Lakes,SLBE,SLBE_05,Bass Lake,44.92221,-85.88327555,GPS Code (Pseudo Range) Standard Position (SA Off),WGS84
+11NPSWRD_WQX-SLBE_07,Otter Lake,Lake,Lakes,SLBE,SLBE_07,Otter Lake,44.73989,-86.06052867,GPS Code (Pseudo Range) Standard Position (SA Off),WGS84
+11NPSWRD_WQX-SLBE_08,Tucker Lake,Lake,Lakes,SLBE,SLBE_08,Tucker Lake,44.9042,-85.95320947,GPS Code (Pseudo Range) Standard Position (SA Off),WGS84
+11NPSWRD_WQX-SLBE_09,North Bar,Lake,Lakes,SLBE,SLBE_09,North Bar,44.84339382,-86.06594641,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-SLBE_10,Loon Lake,Lake,Lakes,SLBE,SLBE_10,Loon Lake,44.70747,-86.12925073,GPS Code (Pseudo Range) Standard Position (SA Off),WGS84
+11NPSWRD_WQX-SLBE_11,Round Lake,Lake,Lakes,SLBE,SLBE_11,Round Lake,44.69306,-86.18465829,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-VOYA_01,Locator Lake,Lake,Lakes,VOYA,VOYA_01,Locator Lake,48.54091482,-93.0038694,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-VOYA_02,War Club Lake,Lake,Lakes,VOYA,VOYA_02,War Club Lake,48.53761834,-92.98383272,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-VOYA_03,Quill Lake,Lake,Lakes,VOYA,VOYA_03,Quill Lake,48.53244411,-92.95327086,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-VOYA_04,Loiten Lake,Lake,Lakes,VOYA,VOYA_04,Loiten Lake,48.5275273,-92.92865283,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-VOYA_05,Shoepack Lake,Lake,Lakes,VOYA,VOYA_05,Shoepack Lake,48.49837683,-92.88758918,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-VOYA_06,Little Shoepack Lake,Lake,Lakes,VOYA,VOYA_06,Little Shoepack Lake,48.49006724,-92.88129246,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-VOYA_07,Jorgens Lake,Lake,Lakes,VOYA,VOYA_07,Jorgens Lake,48.48404024,-92.847975,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-VOYA_08,Quarter Line Lake,Lake,Lakes,VOYA,VOYA_08,Quarter Line Lake,48.47683446,-92.84521021,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-VOYA_09,Ek Lake,Lake,Lakes,VOYA,VOYA_09,Ek Lake,48.47005256,-92.83550273,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-VOYA_10,Agnes Lake,Lake,Lakes,VOYA,VOYA_10,Agnes Lake,48.46774893,-92.81157594,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-VOYA_11,Oslo Lake,Lake,Lakes,VOYA,VOYA_11,Oslo Lake,48.51684745,-92.80659088,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-VOYA_12,Brown Lake,Lake,Lakes,VOYA,VOYA_12,Brown Lake,48.51635071,-92.79640501,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-VOYA_13,Fishmouth Lake,Lake,Lakes,VOYA,VOYA_13,Fishmouth Lake,48.52772782,-92.78154571,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-VOYA_14,Peary Lake,Lake,Lakes,VOYA,VOYA_14,Peary Lake,48.52479679,-92.77154631,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-VOYA_15,Beast Lake,Lake,Lakes,VOYA,VOYA_15,Beast Lake,48.50823074,-92.75953903,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-VOYA_16,Cruiser Lake,Lake,Lakes,VOYA,VOYA_16,Cruiser Lake,48.49888953,-92.8131399,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-VOYA_17,Ryan Lake,Lake,Lakes,VOYA,VOYA_17,Ryan Lake,48.51881597,-92.70735632,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-VOYA_18,Net Lake,Lake,Lakes,VOYA,VOYA_18,Net Lake,48.39550795,-92.65660492,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-VOYA_19,Tooth Lake,Lake,Lakes,VOYA,VOYA_19,Tooth Lake,48.39856671,-92.64328298,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-VOYA_20,O'Leary Lake,Lake,Lakes,VOYA,VOYA_20,O'Leary Lake,48.41597226,-92.53250602,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-VOYA_21,Little Trout Lake,Lake,Lakes,VOYA,VOYA_21,Little Trout Lake,48.39794469,-92.5252564,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-VOYA_22,Mukooda Lake,Lake,Lakes,VOYA,VOYA_22,Mukooda Lake,48.33403847,-92.48668335,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-VOYA_23,Lucille Lake,Lake,Lakes,VOYA,VOYA_23,Lucille Lake,48.37846,-92.58403316,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-VOYA_24,McDivitt Lake,Lake,Lakes,VOYA,VOYA_24,McDivitt Lake,48.51402,-92.74048441,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
+11NPSWRD_WQX-VOYA_25,Weir Lake,Lake,Lakes,VOYA,VOYA_25,Weir Lake,48.49696,-92.74482188,GPS Code (Pseudo Range) Standard Position (SA Off),NAD83
